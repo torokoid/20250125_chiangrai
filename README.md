@@ -213,7 +213,7 @@ p.note { display: none; }
 <h2><span class="yellow">魚の解体する横にいる子供の顔に模様、よく見るとお母さんの顔にも。</span></h2>
 <a href="20250125_029.jpg" target="_blank"><img src="20250125_029.jpg" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">市場の中を縫って走るスクーター</span></h2>
+<h2><span class="yellow">市場の人混みを縫って走りぬけるスクーター</span></h2>
 <a href="20250125_030.jpg" target="_blank"><img src="20250125_030.jpg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">横の酒屋さんでお酒を物色</span></h2>
