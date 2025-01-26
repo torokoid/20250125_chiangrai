@@ -157,6 +157,9 @@ p.note { display: none; }
 <a href="20250125_005.jpg" target="_blank"><img src="20250125_005.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250125_006.jpg" target="_blank"><img src="20250125_006.jpg" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">プールに向かう途中の検問所、いつもより混んでましたがコツを掴んでスムーズに通過</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IJW2wlM33Tk?si=fgIMHS9IBXgQINeN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
 <h2><span class="yellow">プールの中では小学生が水泳の特訓中</span></h2>
 <a href="20250125_007.jpg" target="_blank"><img src="20250125_007.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250125_008.jpg" target="_blank"><img src="20250125_008.jpg" alt="サンプル画像" width="900" /></a>
@@ -182,7 +185,7 @@ p.note { display: none; }
 <h2><span class="yellow">プール入り口の事務棟</span></h2>
 <a href="20250125_019.jpg" target="_blank"><img src="20250125_019.jpg" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">帰りはメーチャンの街でお買い物、オレンジの量り売り<br>35バーツを３kg買ったら5バーツおまけで100バーツに</span></h2>
+<h2><span class="yellow">帰りはメーチャンの街でお買い物、オレンジの量り売り<br>35バーツを３kg買ったら5バーツおまけで100バーツにしてくれました</span></h2>
 <a href="20250125_020.jpg" target="_blank"><img src="20250125_020.jpg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">最上級でもキロあたり50バーツ</span></h2>
@@ -212,8 +215,8 @@ p.note { display: none; }
 <h2><span class="yellow">横の酒屋さんでお酒を物色</span></h2>
 <a href="20250125_031.jpg" target="_blank"><img src="20250125_031.jpg" alt="サンプル画像" width="900" /></a>
 
-<!—
-<a href="20250125_032.jpg" target="_blank"><img src="20250125_032.jpg" alt="サンプル画像" width="900" /></a>—>
+<!--
+<a href="20250125_032.jpg" target="_blank"><img src="20250125_032.jpg" alt="サンプル画像" width="900" /></a>—->
 
 <h2><span class="yellow">夕焼けの変色を観測してみました。<br>オレンジからピンクに変わってまたオレンジに戻りました。</span></h2>
 <a href="20250125_033.jpg" target="_blank"><img src="20250125_033.jpg" alt="サンプル画像" width="900" /></a>
@@ -244,8 +247,7 @@ p.note { display: none; }
 <iframe width="560" height="315" src="https://www.youtube.com/embed/phVF15Gs9WI?si=wm7GRgtTgY8Ikpd2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 <h2><span class="yellow">1日の最後は、メタバースの中で世間話して終わります</span></h2>
-<a href="20250125_001.png” target="_blank"><img src="20250125_001.png” alt="サンプル画像" width="900" /></a>
-
+<a href="20250125_001.png" target="_blank"><img src="20250125_001.png" alt="サンプル画像" width="900" /></a>
 
 
 <br><br><br>
