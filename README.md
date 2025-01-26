@@ -216,7 +216,8 @@ p.note { display: none; }
 <a href="20250125_031.jpg" target="_blank"><img src="20250125_031.jpg" alt="サンプル画像" width="900" /></a>
 
 <!--
-<a href="20250125_032.jpg" target="_blank"><img src="20250125_032.jpg" alt="サンプル画像" width="900" /></a>—->
+<a href="20250125_032.jpg" target="_blank"><img src="20250125_032.jpg" alt="サンプル画像" width="900" /></a>
+-->
 
 <h2><span class="yellow">夕焼けの変色を観測してみました。<br>オレンジからピンクに変わってまたオレンジに戻りました。</span></h2>
 <a href="20250125_033.jpg" target="_blank"><img src="20250125_033.jpg" alt="サンプル画像" width="900" /></a>
