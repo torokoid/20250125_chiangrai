@@ -165,6 +165,8 @@ p.note { display: none; }
 <a href="20250125_008.jpg" target="_blank"><img src="20250125_008.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250125_009.jpg" target="_blank"><img src="20250125_009.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250125_010.jpg" target="_blank"><img src="20250125_010.jpg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">右端は初心者コースでしたが、こちらもマンツーマン指導</span></h2>
 <a href="20250125_011.jpg" target="_blank"><img src="20250125_011.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250125_012.jpg" target="_blank"><img src="20250125_012.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250125_013.jpg" target="_blank"><img src="20250125_013.jpg" alt="サンプル画像" width="900" /></a>
