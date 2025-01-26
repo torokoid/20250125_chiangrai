@@ -177,7 +177,7 @@ p.note { display: none; }
 <h2><span class="yellow">白人さんはカナダからの大学訪問者らしいです</span></h2>
 <a href="20250125_015.jpg" target="_blank"><img src="20250125_015.jpg" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">プールの上には熱帯の天使の梯子</span></h2>
+<h2><span class="yellow">プールの上には熱帯の太陽が輝きます</span></h2>
 <a href="20250125_016.jpg" target="_blank"><img src="20250125_016.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250125_017.jpg" target="_blank"><img src="20250125_017.jpg" alt="サンプル画像" width="900" /></a>
 
