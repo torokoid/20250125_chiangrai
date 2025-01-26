@@ -206,6 +206,8 @@ p.note { display: none; }
 
 <h2><span class="yellow">子供のお守りしながら営業中</span></h2>
 <a href="20250125_027.jpg" target="_blank"><img src="20250125_027.jpg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">写真撮ってるのが女の子にバレました</span></h2>
 <a href="20250125_028.jpg" target="_blank"><img src="20250125_028.jpg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">魚の解体する横にいる子供の顔に模様、よく見るとお母さんの顔にも。</span></h2>
